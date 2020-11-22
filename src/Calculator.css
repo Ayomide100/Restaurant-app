@@ -1,0 +1,25 @@
+
+input{
+    
+    text-align: right;
+    font-size: 27px;
+    justify-content: center;
+    width: 195px;
+    border: none;
+    height: 30px;
+    background-color: darkgray;
+}
+
+
+button{
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    font-family: Verdana;
+    font-weight: lighter;
+    background-color: gray;
+    outline: 1px solid whitesmoke;
+    font-size: 15px;
+
+}
